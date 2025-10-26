@@ -1,3 +1,8 @@
+# SUBMISSION
+
+1. PASTE YOUR DEMO VIDEO LINK HERE
+2. PASTE A LINK TO YOUR PRODUCTION DEPLOYMENT HERE
+
 # Full Stack Starter Template
 
 A clean monorepo structure for projects using **Next.js** (frontend) and **FastAPI** (backend).
